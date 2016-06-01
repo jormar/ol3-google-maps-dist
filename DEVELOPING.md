@@ -21,6 +21,4 @@ The executables `git`, `node`, and `java` should be in your `PATH`.
 
 Just execute the script for compile the last version:
 
-To install the Node.js dependencies run
-
     $ bin/make-dist.sh
