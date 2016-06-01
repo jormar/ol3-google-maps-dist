@@ -1,0 +1,19 @@
+{
+  "name": "ol3-google-maps-dist",
+  "version": "0.5-6-g1c57509",
+  "homepage": "https://github.com/jormar/ol3-google-maps-dist",
+  "authors": [
+    "Jormar Arellano <jormar.arellano@gmail.com>"
+  ],
+  "description": "OL3-Google-Maps for Distribution",
+  "main": "dist/ol3gm.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
